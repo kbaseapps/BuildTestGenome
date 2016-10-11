@@ -1,0 +1,15 @@
+module-name:
+    BuildTestGenome
+
+module-description:
+    A KBase module is useful for preparation of small Genome objects in tests of methods dealing with protein translations in CDSs only.
+
+service-language:
+    java
+
+module-version:
+    0.0.1
+
+owners:
+    [rsutormin]
+
