@@ -27,7 +27,6 @@ import us.kbase.common.service.Tuple11;
 import workspace.ProvenanceAction;
 //END_HEADER
 
-
 /**
  * <p>Original spec-file module name: BuildTestGenome</p>
  * <pre>
@@ -38,9 +37,9 @@ import workspace.ProvenanceAction;
  */
 public class BuildTestGenomeServer extends JsonServerServlet {
     private static final long serialVersionUID = 1L;
-    private static final String version = "0.0.1";
-    private static final String gitUrl = "";
-    private static final String gitCommitHash = "";
+    private static final String version = "0.0.2";
+    private static final String gitUrl = "https://github.com/kbaseapps/BuildTestGenome";
+    private static final String gitCommitHash = "0d23d8b80cd621f024a8f360cf7435bdd8aae345";
 
     //BEGIN_CLASS_HEADER
     
